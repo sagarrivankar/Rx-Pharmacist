@@ -20,7 +20,7 @@
     "react-native-table-component": "^1.2.0",
     "react-native-tesseract-ocr": "^1.0.10",
     "react-navigation": "^3.11.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "@babel/core": "7.4.5",
