@@ -11,7 +11,7 @@
     "lodash": "^4.17.15",
     "node-nlp": "^3.2.0",
     "react": "16.8.3",
-    "react-native": "0.59.9",
+    "react-native": "0.62.3",
     "react-native-bluetooth-hc05": "^0.2.0",
     "react-native-bluetooth-serial": "^1.0.0-rc1",
     "react-native-camera": "^2.11.0",
